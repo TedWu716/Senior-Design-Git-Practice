@@ -1,3 +1,3 @@
-# Senior-Design-Git-Practice
+# Senior-Design-Projec-GEMINI
 
-It's a in class practice about using githhub/git
+It's Github Repository For CSUN Senior Design Project GEMINI.
